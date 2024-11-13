@@ -1,12 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Alex Rapp]
+## [lab 09]
+## [11/12/2024]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* lecure notes
+* previous assignments
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* struggled to find typos
